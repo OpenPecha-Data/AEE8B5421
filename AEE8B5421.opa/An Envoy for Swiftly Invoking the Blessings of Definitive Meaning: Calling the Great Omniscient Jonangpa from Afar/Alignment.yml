@@ -1,0 +1,19 @@
+segment_sources:
+  P650A46AC:
+    type: origin_type
+    relation: translation
+    language: en
+  P582667A8:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  609c06c01b8748388bb19e2287b10bae:
+    P650A46AC: b7cb0ab1eaa8413bb12a1af9995c6d79
+    P582667A8: 69d1b2700f484be7b7e0609567320be6
+  b79e59cd68314219bf80c8819d64ec1b:
+    P650A46AC: 453f785b83b944b09e5f496ed0bd1376
+    P582667A8: 449edd04ae064038ae2b54a7dbc49471
+  39ec45b435ea4c0bb1ec682093cb4df6:
+    P650A46AC: 762ecea5be524935aedc1ac68b4d1ee1
+    P582667A8: 03b9c234d2ae4d2f9ab2b7e092682606
